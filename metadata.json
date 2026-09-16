@@ -1,0 +1,6 @@
+{
+  "name": "Hira Koltuk Yıkama",
+  "description": "Bursa geneli profesyonel koltuk, halı, yatak ve araç döşemesi yıkama hizmeti, hızlı fiyat hesaplayıcı ve randevu sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
